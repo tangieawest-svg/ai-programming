@@ -1,0 +1,52 @@
+{
+  "resources": [
+    {
+      "name": "Library",
+      "aliases": ["lib", "library", "media center"],
+      "location": "Hultquist Library, Jamestown Campus, 525 Falconer Street, Jamestown, NY",
+      "hours": "See official library website for current hours",
+      "phone": "716.338.1008",
+      "email": "",
+      "website": "https://www.sunyjcc.edu/support/learning-commons/library/ask",
+      "description": "Provides study spaces, research assistance, library materials, and computer access.",
+      "verified_by": "JCC Official Website",
+      "last_verified": "2026-10-09"
+    },
+    {
+      "name": "Tutoring Center",
+      "aliases": ["tutoring", "tutor", "academic support"],
+      "location": "HULT Floor 1, Learning Commons, Jamestown Campus",
+      "hours": "Appointments available through Starfish",
+      "phone": "716.338.1008",
+      "email": "",
+      "website": "https://www.sunyjcc.edu/support/learning-commons/learning-center/tutoring",
+      "description": "Offers free peer tutoring for JCC students in subjects including math, English, and health sciences.",
+      "verified_by": "JCC Official Website",
+      "last_verified": "2026-10-09"
+    },
+    {
+      "name": "Academic Advising",
+      "aliases": ["advising", "advisor", "counselor"],
+      "location": "Success Center, COCE Floor 1, Jamestown Campus",
+      "hours": "Contact the Success Center for appointment availability",
+      "phone": "716.338.1065",
+      "email": "successcenter@mail.sunyjcc.edu",
+      "website": "https://www.sunyjcc.edu/support/success-center/advising",
+      "description": "Helps students plan their courses, choose academic programs, and prepare for graduation or transfer.",
+      "verified_by": "JCC Official Website",
+      "last_verified": "2026-10-09"
+    },
+    {
+      "name": "Financial Aid Office",
+      "aliases": ["financial aid", "fafsa", "grants", "scholarships"],
+      "location": "COCE Floor 1, Jamestown Campus",
+      "hours": "Contact the office for current service hours",
+      "phone": "716.338.1009",
+      "email": "FinancialAid@sunyjcc.edu",
+      "website": "https://www.sunyjcc.edu/support/financial-aid-billing",
+      "description": "Helps students with FAFSA applications, financial aid, scholarships, tuition, and student billing.",
+      "verified_by": "JCC Official Website",
+      "last_verified": "2026-10-09"
+    }
+  ]
+}
